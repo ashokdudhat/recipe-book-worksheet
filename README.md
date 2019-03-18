@@ -1,4 +1,4 @@
-# Basic Structure
+# Recipe Book
 
 1. Clone this repository to your exercises folder
 2. Create a branch with the following naming convention: `<your_name>/solution` (replace `<your_name>` with your actual name i.e. for itamar it would be `itamar/solution`)
