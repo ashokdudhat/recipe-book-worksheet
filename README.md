@@ -28,8 +28,8 @@
 
 ## Exercise III
 
-- [ ] Under the image, add the main heading of your page. The heading should be the name of your recipe.
-- [ ] Add two secondary headings to your page. The first should say "Ingredients" and the second should say "Preparation".
+- [x] Under the image, add the main heading of your page. The heading should be the name of your recipe.
+- [x] Add two secondary headings to your page. The first should say "Ingredients" and the second should say "Preparation".
 
 ---
 
