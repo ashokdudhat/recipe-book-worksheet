@@ -13,9 +13,9 @@
 
 ## Exercise I
 
-- [ ] In the `recipes` folder, create a new file with the basic html structure, with the following naming convention `<your_name>-recipe.html` (replace `<your_name>` with your actual name i.e. for itamar it would be `itamar-recipe.html`).
-- [ ] Create a meta tag with the name author and your name as the value
-- [ ] Change the title of the page to the name of the recipe.
+- [x] In the `recipes` folder, create a new file with the basic html structure, with the following naming convention `<your_name>-recipe.html` (replace `<your_name>` with your actual name i.e. for itamar it would be `itamar-recipe.html`).
+- [x] Create a meta tag with the name author and your name as the value
+- [x] Change the title of the page to the name of the recipe.
 
 ---
 
