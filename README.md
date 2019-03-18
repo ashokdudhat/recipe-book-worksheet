@@ -21,8 +21,8 @@
 
 ## Exercise II
 
-- [ ] Find and/or download an image for your recipe, and put it in the `img` folder.
-- [ ] Add the image of your recipe to the html page, the fallback text for the image should be the name of the recipe, the image must be 500 px wide
+- [x] Find and/or download an image for your recipe, and put it in the `img` folder.
+- [x] Add the image of your recipe to the html page, the fallback text for the image should be the name of the recipe, the image must be 500 px wide
 
 ---
 
